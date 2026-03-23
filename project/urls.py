@@ -8,3 +8,4 @@ urlpatterns = [
     path('forum/', include('forum.urls')),
     path('admin/', admin.site.urls),
 ]
+
